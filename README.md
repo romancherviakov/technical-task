@@ -23,3 +23,7 @@ every animal has such ability. There are several issues and we hope you'd solve 
 * php 7
 * Unit tests
 * docker environment
+
+## update
+
+please run composer dumpautoload -o to generate autoloading files
